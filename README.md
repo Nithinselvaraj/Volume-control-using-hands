@@ -1,4 +1,4 @@
-# Volume-control-using-hands
+# Volume-control-using-fingers
 ~~~~~~~
   pip install opencv
   pip install pycaw
